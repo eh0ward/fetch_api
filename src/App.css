@@ -2,6 +2,34 @@
   text-align: center;
 }
 
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+.list {
+  padding-left: 0px;
+  list-style: none;
+}
+
+.image {
+  border-radius: 50%;
+  /* padding-bottom: 2px; */
+}
+
+.button {
+  margin-top: 10px;
+  border-style: none;
+  /* border-radius: 5%; */
+  background-color: transparent;
+  text-decoration: underline;
+  padding-left: 1px;
+  font-weight: bold;
+  text-align: justify;
+  margin-bottom: 10px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
